@@ -46,6 +46,9 @@ Includes a detailed project report (`report.pdf`).
 
 ---
 
+## Folder Structure
+
+```plaintext
 SQL-Project-Collection/
 ├── Airline-Reservation-System/
 │   ├── schema.sql
@@ -68,7 +71,7 @@ SQL-Project-Collection/
 │   ├── triggers.sql        # Trigger definitions
 │   └── README.md           # (Optional) Project-specific README
 │
-└── README.md               # Main combined README file (the one I gave you)
+└── README.md               # Main combined README file 
 
 
 
