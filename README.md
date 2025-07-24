@@ -38,7 +38,7 @@ Email: nandini.samdariya10@email.com
 
 ---
 ## Report of Employee Management & Attendance Tracker 
-Includes a detailed project report (`report.pdf`).
+Includes a detailed project report (`Employee Management & Attendance Tracker Report.pdf`).
 
 ## How Dummy Data Was Created (Summary)
 - Employee Attendance Tracker uses loops and `generate_series()` to simulate realistic attendance data.
