@@ -1,0 +1,11 @@
+UserName,ExpenseDate,CategoryName,Amount,Description
+"Nandini Samdariya ",2025-06-02,Groceries,5500.00,"Monthly groceries"
+"Nandini Samdariya ",2025-06-03,Rent,15000.00,"Apartment Rent"
+"Nandini Samdariya ",2025-06-05,Utilities,2300.00,"Electricity and Water bills"
+"Nandini Samdariya ",2025-06-06,Entertainment,1200.00,"Netflix subscription"
+"Nandini Samdariya ",2025-06-15,Travel,3000.00,"Train tickets to hometown"
+"Nistha Samdariya",2025-06-02,Groceries,3000.00,"Groceries for June"
+"Nistha Samdariya",2025-06-05,Rent,7000.00,"PG Rent"
+"Nistha Samdariya",2025-06-06,Utilities,1500.00,"Electricity and WiFi"
+"Nistha Samdariya",2025-06-07,Entertainment,800.00,"Movie tickets"
+"Nistha Samdariya",2025-06-11,Travel,1200.00,"Cab fares during trip"
